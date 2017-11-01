@@ -11,7 +11,7 @@ i{
 	margin-bottom: 0px;
 	background: #fff;
 	color: #000;
-	height: 80px;
+	height: 85px;
 }
 .navbar-default .navbar-brand {
     color: #fff;
@@ -77,5 +77,11 @@ footer{
 	background-color: #015289;
 	padding-top: 30px;
 	padding-bottom: 20px;
+	color: #fff;
+}
+footer i{
+	color: #fff;
+}
+footer a{
 	color: #fff;
 }

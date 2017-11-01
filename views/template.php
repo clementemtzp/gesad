@@ -19,8 +19,9 @@
 				<p>&copy<?=date('Y')?> Gesad Consultores SC</p>
 			</div>
 			<div class="col-md-4">
-				<p class="text-center">(951) 123 5678</p>
+				<p class="text-center">(951) 233 9839</p>
 				<p class="text-center">hola@gesadconsultores.com.mx</p>
+				<p class="text-center">Ave. Hidalgo 1706 altos int 3, Centro, Oaxaca de Juárez, Oaxaca, México, CP 68000.</p>
 			</div>
 			<div class="col-md-4">
 				<p class="text-right">
@@ -31,6 +32,7 @@
 			</div>
 
 		</div>
+		<p class="text-center"><i class="fa fa-code"></i> by <a href="http://emtycorp.com.mx/software" target="_blank">Emty Software</a></p>
 	</footer>
 	<script type="text/javascript" src="views/js/jquery.js"></script>
 	<script type="text/javascript" src="views/js/bootstrap.min.js"></script>
